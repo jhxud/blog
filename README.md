@@ -1,1 +1,1 @@
-# blog
+hugo + caddy to serve blog
