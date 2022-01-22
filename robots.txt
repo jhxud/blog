@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://xujunhai.com/sitemap.xml
