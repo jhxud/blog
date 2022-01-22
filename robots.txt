@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://8.141.164.51/sitemap.xml
+Sitemap: http://8.141.164.51/sitemap.xml
