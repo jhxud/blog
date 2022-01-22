@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 许军海的博客</title>
-    <link>https://xujunhai.com/tags/</link>
+    <link>http://8.141.164.51/tags/</link>
     <description>Recent content in Tags on 许军海的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://xujunhai.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="http://8.141.164.51/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

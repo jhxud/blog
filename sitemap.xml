@@ -1,27 +1,27 @@
-<?xml-stylesheet type="text/xsl" href="https://xujunhai.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://8.141.164.51/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://xujunhai.com/about/</loc>
+    <loc>http://8.141.164.51/about/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://xujunhai.com/categories/</loc>
+    <loc>http://8.141.164.51/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://xujunhai.com/tags/</loc>
+    <loc>http://8.141.164.51/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://xujunhai.com/</loc>
+    <loc>http://8.141.164.51/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

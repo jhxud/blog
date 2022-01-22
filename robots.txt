@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://xujunhai.com/sitemap.xml
+Sitemap: http://8.141.164.51/sitemap.xml
